@@ -6,6 +6,17 @@
   "pkgs": [
     "libgit2"
   ],
+  "url": "https://github.com/haxscramper/hlibgit2",
+  "refs": [
+    "refs/heads/master",
+    "refs/tags/0.1.1",
+    "refs/tags/0.1.2",
+    "refs/tags/0.1.3",
+    "refs/tags/0.1.4",
+    "refs/tags/0.1.5",
+    "refs/tags/0.1.6",
+    ""
+  ],
   "tags": [
     {
       "name": "hlibgit2",
@@ -223,17 +234,6 @@
       "backend": "c",
       "ref": "refs/tags/0.1.6"
     }
-  ],
-  "url": "https://github.com/haxscramper/hlibgit2",
-  "refs": [
-    "refs/heads/master",
-    "refs/tags/0.1.1",
-    "refs/tags/0.1.2",
-    "refs/tags/0.1.3",
-    "refs/tags/0.1.4",
-    "refs/tags/0.1.5",
-    "refs/tags/0.1.6",
-    ""
   ],
   "heads": [
     {
