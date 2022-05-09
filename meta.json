@@ -8,7 +8,7 @@
   ],
   "url": "https://github.com/haxscramper/hlibgit2",
   "refs": [
-    "fatal: unable to access 'https://github.com/haxscramper/hlibgit2/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/haxscramper/hlibgit2/': SSL connection timeout",
     ""
   ],
   "tags": [],
