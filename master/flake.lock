@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "0_1_5",
-        "lastModified": 1667334505,
-        "narHash": "sha256-st5j0/xaIKKMuBsDveQ3/2ptpyu9707pKWMpL91RYv8=",
+        "lastModified": 1668748784,
+        "narHash": "sha256-nC/1GlQoHxlI2ivz4spFHaGCFHYRshpbK3r3SUSgW8Q=",
         "owner": "nim-nix-pkgs",
         "repo": "github-haxscramper-hlibssh2",
-        "rev": "f31f891a19fe5564bee21f19b49eea3c20180337",
+        "rev": "33329cbc7ab41ea7aa9e102f2260d8a31e3a662a",
         "type": "github"
       },
       "original": {
